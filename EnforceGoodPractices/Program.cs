@@ -12,6 +12,8 @@ namespace EnforceGoodPractices
 
             //Thread.Sleep(1000); // This will throw
             //GC.Collect(); // This will throw as well
+            
+            // TODO, further
         }
     }
 }
